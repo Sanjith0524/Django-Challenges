@@ -1,0 +1,21 @@
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color : rgb(126,1,84);
+    text-align: center;
+    margin: 2rem 0 1rem 0;
+}
+
+h2 {
+    font-size: 4rem;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+}
